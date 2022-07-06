@@ -1,10 +1,10 @@
+import React from 'react';
+import Nav from './NavBar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        This is React.
-      </header>
+      <Nav />
     </div>
   );
 }
